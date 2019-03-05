@@ -1,4 +1,4 @@
-(Header) Name: Vidal Arroyo, ID: 2253413, Email: arroy118@mail.chapman.edu, Class: CPSC 350-02, Assignment: Assignment 2
+(Header) Name: Vidal Arroyo, ID: 2253413, Email: arroy118@mail.chapman.edu, Class: CPSC 350-01, Assignment: Assignment 2
 
 (Brief Overview)
 i. main.cpp: a main program used to run a public interface of the Game Of Life program.
